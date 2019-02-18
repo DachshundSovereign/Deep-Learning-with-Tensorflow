@@ -3,4 +3,5 @@ This repository consists of notebooks for the practice for the EdX online course
 
 ## Table of Contents
 * [Tensorflow Basic](notebooks/tensorflow_basic.ipynb)
+* [Linear Regression](notebooks/linear_regression.ipynb)
 
